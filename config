@@ -1,5 +1,5 @@
 window-padding-color = background
-theme = vesper
+theme = Tinacious Design (Dark)
 font-family = "Input Mono Condensed"
 font-size = 13
 quick-terminal-position = top
@@ -19,5 +19,5 @@ clipboard-write = ask
 working-directory = inherit
 focus-follows-mouse = true
 quick-terminal-screen = mouse
-background-opacity = 0.9
+background-opacity = 0.95
 background-blur-radius = 20
