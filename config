@@ -19,3 +19,5 @@ clipboard-write = ask
 working-directory = inherit
 focus-follows-mouse = true
 quick-terminal-screen = mouse
+background-opacity = 0.9
+background-blur-radius = 20
