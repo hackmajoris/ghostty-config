@@ -1,0 +1,21 @@
+window-padding-color = background
+theme = vesper
+font-size = 13
+font-feature = -liga
+quick-terminal-position = top
+window-padding-x = 10
+cursor-style-blink = false
+cursor-style = block
+shell-integration-features = no-cursor
+cursor-click-to-move=true
+keybind = global:ctrl+p=toggle_quick_terminal
+copy-on-select = true
+window-save-state = always
+cursor-click-to-move = true
+macos-titlebar-proxy-icon = hidden
+clipboard-trim-trailing-spaces = true
+clipboard-read = ask
+clipboard-write = ask
+working-directory = inherit
+focus-follows-mouse = true
+quick-terminal-screen = mouse
